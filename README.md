@@ -14,8 +14,7 @@ I am Ahmed Belhassen and I'm web developer, with knowledge and experience, worki
 
 <br>
 <p align="center">
-  <img                 src="./ahmed.jpg
-/>
+  <img src="./ahmed.jpg/>
 </p>
 
 <h1 align="center">Hi, I'm AHMED BELHASSEN </h1>
